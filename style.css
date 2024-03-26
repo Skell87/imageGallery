@@ -15,6 +15,7 @@ body {
   height: 480px;
 }
 
+/* this is the blank div that shades the full img*/
 .overlay {
   position: absolute;
   top: 0;
